@@ -1,0 +1,13 @@
+scenario,baseline,karat_mean,base_mean,delta,p_value,sig
+S1_targeted,B1_Random,0.9087,0.2899,0.6188,2e-06,***
+S1_targeted,B2_LiveStudent,0.9087,0.8583,0.0504,1.2e-05,***
+S1_targeted,B3_L2,0.9087,0.9205,-0.0118,0.149727,ns
+S1_targeted,B4_Oracle,0.9087,0.9768,-0.0681,2e-06,***
+S2_coordinated,B1_Random,0.9136,0.2899,0.6238,2e-06,***
+S2_coordinated,B2_LiveStudent,0.9136,0.909,0.0046,0.000655,***
+S2_coordinated,B3_L2,0.9136,0.909,0.0046,0.000655,***
+S2_coordinated,B4_Oracle,0.9136,0.9835,-0.0698,2e-06,***
+S3_cascading,B1_Random,0.9153,0.2899,0.6254,2e-06,***
+S3_cascading,B2_LiveStudent,0.9153,0.9116,0.0037,8.8e-05,***
+S3_cascading,B3_L2,0.9153,0.9116,0.0037,8.8e-05,***
+S3_cascading,B4_Oracle,0.9153,0.9904,-0.0751,2e-06,***

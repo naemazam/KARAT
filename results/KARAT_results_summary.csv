@@ -1,0 +1,5 @@
+Experiment,Finding,Key Metric,Status
+E1,CKA drops 0.984→0.787 over 10min attack (drop=0.207),CKA_drop=0.2070 at t=10,DONE
+E2,KARAT survivability gain +2.85% to +4.15% over KATS-static,"Max gain=+0.0415 at t=0, stable +0.0285 at peak attack",DONE
+E3,"Optimal theta=0.10: precision=0.9347, recall=0.2372, gain=+0.0352",Precision=0.9347 at theta=0.10,DONE
+E4,"Full cycle=779ms, 1539 cycles/20min window — real-time feasible","779ms/cycle, 1539 cycles in 20min window",DONE

@@ -1,0 +1,8 @@
+component,mean_ms,std_ms
+A_attack_inject,14.12,2.21
+B_teacher_infer,327.12,219.45
+C_student_infer,46.18,14.25
+D_cka_compute,3.74,0.65
+E_karat_correct,0.07,0.02
+TOTAL_CYCLE_ms,391.22,0.0
+cycles_per_20min_window,3067.0,0.0
